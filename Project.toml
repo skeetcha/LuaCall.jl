@@ -1,0 +1,4 @@
+name = "LuaCall"
+uuid = "fc4e000b-0930-4fc3-a4e2-879ce71078f3"
+authors = ["Daniel Unterholzner <pianojammer@comcast.net>"]
+version = "0.1.0"

@@ -1,4 +1,13 @@
 name = "LuaCall"
-uuid = "fc4e000b-0930-4fc3-a4e2-879ce71078f3"
+uuid = "dcb0acdb-9374-4194-b491-83c024c01f0b"
 authors = ["Daniel Unterholzner <pianojammer@comcast.net>"]
 version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
